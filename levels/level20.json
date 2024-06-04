@@ -1,0 +1,50 @@
+{
+  "level": 20,
+  "theme": "Types of Dance",
+  "solution": [
+    "BALLET",
+    "SALSA",
+    "TANGO",
+    "HIPHOP",
+    "SAMBA"
+  ],
+  "testTubes": [
+    [
+      "T",
+      "L",
+      "L",
+      "A",
+      "B",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "A",
+      "L",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "G",
+      "N",
+      "A"
+    ],
+    [
+      "O",
+      "I",
+      "H",
+      "P",
+      "H",
+      "P"
+    ],
+    [
+      "S",
+      "A",
+      "A",
+      "B",
+      "M"
+    ]
+  ]
+}

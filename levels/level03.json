@@ -1,0 +1,50 @@
+{
+  "level": 3,
+  "theme": "Countries",
+  "testTubes": [
+    [
+      "C",
+      "H",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "N",
+      "I",
+      "I"
+    ],
+    [
+      "J",
+      "N",
+      "P",
+      "A",
+      "A"
+    ],
+    [
+      "I",
+      "A",
+      "Z",
+      "R",
+      "B",
+      "L"
+    ],
+    [
+      "D",
+      "N",
+      "A",
+      "A",
+      "C",
+      "A"
+    ]
+  ],
+  "solution": [
+    "CHINA",
+    "INDIA",
+    "JAPAN",
+    "BRAZIL",
+    "CANADA"
+  ]
+}

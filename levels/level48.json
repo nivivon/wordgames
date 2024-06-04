@@ -1,0 +1,40 @@
+{
+    "level": 48,
+    "theme": "Marketing",
+    "solution": [
+        "BRAND",
+        "SALES",
+        "MEDIA",
+        "PROMO"
+    ],
+    "testTubes": [
+        [
+            "B",
+            "D",
+            "N",
+            "R",
+            "A"
+        ],
+        [
+            "S",
+            "S",
+            "L",
+            "E",
+            "A"
+        ],
+        [
+            "I",
+            "A",
+            "M",
+            "E",
+            "D"
+        ],
+        [
+            "P",
+            "M",
+            "O",
+            "R",
+            "O"
+        ]
+    ]
+}

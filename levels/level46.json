@@ -1,0 +1,43 @@
+{
+    "level": 46,
+    "theme": "Theater",
+    "solution": [
+        "STAGE",
+        "PLAY",
+        "ROLE",
+        "ACT",
+        "SHOW"
+    ],
+    "testTubes": [
+        [
+            "E",
+            "T",
+            "A",
+            "S",
+            "G"
+        ],
+        [
+            "P",
+            "Y",
+            "L",
+            "A"
+        ],
+        [
+            "L",
+            "O",
+            "E",
+            "R"
+        ],
+        [
+            "C",
+            "A",
+            "T"
+        ],
+        [
+            "O",
+            "S",
+            "W",
+            "H"
+        ]
+    ]
+}

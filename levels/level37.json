@@ -1,0 +1,43 @@
+{
+    "level": 37,
+    "theme": "Sports",
+    "solution": [
+        "GAME",
+        "TEAM",
+        "SCORE",
+        "GOAL",
+        "WIN"
+    ],
+    "testTubes": [
+        [
+            "G",
+            "M",
+            "A",
+            "E"
+        ],
+        [
+            "T",
+            "E",
+            "M",
+            "A"
+        ],
+        [
+            "E",
+            "C",
+            "O",
+            "S",
+            "R"
+        ],
+        [
+            "A",
+            "O",
+            "L",
+            "G"
+        ],
+        [
+            "I",
+            "W",
+            "N"
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "level": 70,
+    "theme": "Ethnography",
+    "solution": [
+        "CULTURE",
+        "FIELD",
+        "STUDY",
+        "SOCIETY",
+        "GROUP"
+    ],
+    "testTubes": [
+        [
+            "T",
+            "L",
+            "C",
+            "U",
+            "E",
+            "R",
+            "U"
+        ],
+        [
+            "I",
+            "L",
+            "E",
+            "D",
+            "F"
+        ],
+        [
+            "S",
+            "Y",
+            "U",
+            "D",
+            "T"
+        ],
+        [
+            "Y",
+            "S",
+            "C",
+            "E",
+            "I",
+            "T",
+            "O"
+        ],
+        [
+            "R",
+            "G",
+            "O",
+            "U",
+            "P"
+        ]
+    ]
+}

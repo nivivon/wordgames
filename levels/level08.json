@@ -1,0 +1,56 @@
+{
+  "level": 8,
+  "theme": "Vegetables",
+  "solution": [
+    "CARROT",
+    "BROCCOLI",
+    "PEPPER",
+    "POTATO",
+    "SPINACH"
+  ],
+  "testTubes": [
+    [
+      "R",
+      "R",
+      "T",
+      "A",
+      "O",
+      "C"
+    ],
+    [
+      "I",
+      "B",
+      "C",
+      "C",
+      "O",
+      "O",
+      "R",
+      "L"
+    ],
+    [
+      "R",
+      "P",
+      "P",
+      "E",
+      "P",
+      "E"
+    ],
+    [
+      "T",
+      "T",
+      "P",
+      "O",
+      "O",
+      "A"
+    ],
+    [
+      "P",
+      "C",
+      "H",
+      "S",
+      "A",
+      "I",
+      "N"
+    ]
+  ]
+}

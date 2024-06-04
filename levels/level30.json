@@ -1,0 +1,73 @@
+{
+  "level": 30,
+  "theme": "Montreal Landmarks",
+  "solution": [
+    "BIODOME",
+    "ORANGEJULEP",
+    "MOUNTROYAL",
+    "SCHWARTZS",
+    "ATWATERMARKET"
+  ],
+  "testTubes": [
+    [
+      "I",
+      "D",
+      "O",
+      "O",
+      "E",
+      "B",
+      "M"
+    ],
+    [
+      "N",
+      "R",
+      "O",
+      "J",
+      "L",
+      "U",
+      "E",
+      "A",
+      "E",
+      "P",
+      "G"
+    ],
+    [
+      "M",
+      "U",
+      "O",
+      "L",
+      "N",
+      "A",
+      "R",
+      "Y",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "S",
+      "Z",
+      "H",
+      "S",
+      "R",
+      "C",
+      "W"
+    ],
+    [
+      "A",
+      "A",
+      "T",
+      "M",
+      "E",
+      "E",
+      "K",
+      "T",
+      "W",
+      "R",
+      "T",
+      "A",
+      "R"
+    ]
+  ]
+}

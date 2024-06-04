@@ -1,0 +1,48 @@
+{
+    "level": 77,
+    "theme": "Robotics",
+    "solution": [
+        "ROBOT",
+        "SENSOR",
+        "CONTROL",
+        "AUTOMATION"
+    ],
+    "testTubes": [
+        [
+            "B",
+            "O",
+            "O",
+            "T",
+            "R"
+        ],
+        [
+            "R",
+            "N",
+            "S",
+            "S",
+            "E",
+            "O"
+        ],
+        [
+            "O",
+            "C",
+            "O",
+            "T",
+            "R",
+            "L",
+            "N"
+        ],
+        [
+            "N",
+            "M",
+            "A",
+            "I",
+            "O",
+            "A",
+            "U",
+            "T",
+            "T",
+            "O"
+        ]
+    ]
+}

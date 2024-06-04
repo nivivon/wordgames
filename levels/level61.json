@@ -1,0 +1,51 @@
+{
+    "level": 61,
+    "theme": "Geography",
+    "solution": [
+        "MAP",
+        "TERRAIN",
+        "CLIMATE",
+        "REGION",
+        "GLOBE"
+    ],
+    "testTubes": [
+        [
+            "M",
+            "P",
+            "A"
+        ],
+        [
+            "N",
+            "T",
+            "R",
+            "E",
+            "I",
+            "R",
+            "A"
+        ],
+        [
+            "A",
+            "M",
+            "L",
+            "T",
+            "C",
+            "E",
+            "I"
+        ],
+        [
+            "G",
+            "R",
+            "N",
+            "O",
+            "E",
+            "I"
+        ],
+        [
+            "E",
+            "L",
+            "B",
+            "G",
+            "O"
+        ]
+    ]
+}

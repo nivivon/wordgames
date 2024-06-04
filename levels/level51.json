@@ -1,0 +1,49 @@
+{
+    "level": 51,
+    "theme": "Philosophy",
+    "solution": [
+        "ETHICS",
+        "LOGIC",
+        "BELIEF",
+        "MIND",
+        "TRUTH"
+    ],
+    "testTubes": [
+        [
+            "T",
+            "H",
+            "S",
+            "E",
+            "I",
+            "C"
+        ],
+        [
+            "G",
+            "C",
+            "I",
+            "L",
+            "O"
+        ],
+        [
+            "L",
+            "I",
+            "F",
+            "B",
+            "E",
+            "E"
+        ],
+        [
+            "I",
+            "M",
+            "D",
+            "N"
+        ],
+        [
+            "H",
+            "T",
+            "R",
+            "T",
+            "U"
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "level": 55,
+    "theme": "Automotive",
+    "solution": [
+        "CAR",
+        "ENGINE",
+        "SPEED",
+        "DRIVE",
+        "MODEL"
+    ],
+    "testTubes": [
+        [
+            "R",
+            "C",
+            "A"
+        ],
+        [
+            "E",
+            "G",
+            "N",
+            "I",
+            "E",
+            "N"
+        ],
+        [
+            "D",
+            "S",
+            "P",
+            "E",
+            "E"
+        ],
+        [
+            "V",
+            "D",
+            "R",
+            "I",
+            "E"
+        ],
+        [
+            "L",
+            "D",
+            "O",
+            "E",
+            "M"
+        ]
+    ]
+}

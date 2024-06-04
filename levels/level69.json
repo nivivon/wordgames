@@ -1,0 +1,53 @@
+{
+    "level": 69,
+    "theme": "Astronautics",
+    "solution": [
+        "ROCKET",
+        "SPACE",
+        "ORBIT",
+        "SATELLITE",
+        "PROBE"
+    ],
+    "testTubes": [
+        [
+            "C",
+            "R",
+            "O",
+            "E",
+            "T",
+            "K"
+        ],
+        [
+            "P",
+            "A",
+            "C",
+            "E",
+            "S"
+        ],
+        [
+            "B",
+            "O",
+            "R",
+            "I",
+            "T"
+        ],
+        [
+            "I",
+            "E",
+            "L",
+            "T",
+            "S",
+            "L",
+            "E",
+            "A",
+            "T"
+        ],
+        [
+            "R",
+            "P",
+            "O",
+            "E",
+            "B"
+        ]
+    ]
+}

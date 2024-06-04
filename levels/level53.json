@@ -1,0 +1,48 @@
+{
+    "level": 53,
+    "theme": "Architecture",
+    "solution": [
+        "DESIGN",
+        "BUILD",
+        "SPACE",
+        "URBAN",
+        "HOME"
+    ],
+    "testTubes": [
+        [
+            "G",
+            "N",
+            "E",
+            "S",
+            "D",
+            "I"
+        ],
+        [
+            "D",
+            "I",
+            "U",
+            "L",
+            "B"
+        ],
+        [
+            "P",
+            "C",
+            "E",
+            "S",
+            "A"
+        ],
+        [
+            "N",
+            "U",
+            "B",
+            "R",
+            "A"
+        ],
+        [
+            "M",
+            "H",
+            "O",
+            "E"
+        ]
+    ]
+}

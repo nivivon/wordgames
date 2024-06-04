@@ -1,0 +1,63 @@
+{
+  "level": 28,
+  "theme": "Summer",
+  "solution": [
+    "SUNSCREEN",
+    "SWIMSUIT",
+    "ICECREAM",
+    "BEACHBALL",
+    "SUNHAT"
+  ],
+  "testTubes": [
+    [
+      "N",
+      "U",
+      "N",
+      "S",
+      "S",
+      "C",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "I",
+      "S",
+      "M",
+      "T",
+      "U",
+      "W",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "E",
+      "I",
+      "M",
+      "C",
+      "R",
+      "C"
+    ],
+    [
+      "L",
+      "A",
+      "A",
+      "C",
+      "B",
+      "E",
+      "L",
+      "B",
+      "H"
+    ],
+    [
+      "U",
+      "A",
+      "H",
+      "N",
+      "T",
+      "S"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "level": 33,
+  "theme": "North American Airlines",
+  "solution": [
+    "DELTA",
+    "UNITED",
+    "AIRCANADA",
+    "SOUTHWEST",
+    "WESTJET"
+  ],
+  "testTubes": [
+    [
+      "D",
+      "T",
+      "L",
+      "A",
+      "E"
+    ],
+    [
+      "T",
+      "U",
+      "N",
+      "I",
+      "E",
+      "D"
+    ],
+    [
+      "I",
+      "C",
+      "N",
+      "A",
+      "R",
+      "A",
+      "D",
+      "A",
+      "A"
+    ],
+    [
+      "H",
+      "E",
+      "S",
+      "U",
+      "O",
+      "T",
+      "T",
+      "S",
+      "W"
+    ],
+    [
+      "W",
+      "T",
+      "E",
+      "E",
+      "J",
+      "S",
+      "T"
+    ]
+  ]
+}

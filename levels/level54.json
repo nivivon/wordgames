@@ -1,0 +1,46 @@
+{
+    "level": 54,
+    "theme": "Real Estate",
+    "solution": [
+        "HOUSE",
+        "LEASE",
+        "RENT",
+        "AGENT",
+        "SALE"
+    ],
+    "testTubes": [
+        [
+            "H",
+            "U",
+            "S",
+            "O",
+            "E"
+        ],
+        [
+            "L",
+            "E",
+            "A",
+            "E",
+            "S"
+        ],
+        [
+            "N",
+            "T",
+            "E",
+            "R"
+        ],
+        [
+            "T",
+            "A",
+            "E",
+            "N",
+            "G"
+        ],
+        [
+            "L",
+            "E",
+            "S",
+            "A"
+        ]
+    ]
+}

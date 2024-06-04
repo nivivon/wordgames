@@ -1,0 +1,50 @@
+{
+    "level": 68,
+    "theme": "Journalism",
+    "solution": [
+        "NEWS",
+        "REPORT",
+        "MEDIA",
+        "PRESS",
+        "ARTICLE"
+    ],
+    "testTubes": [
+        [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        [
+            "O",
+            "R",
+            "T",
+            "E",
+            "R",
+            "P"
+        ],
+        [
+            "A",
+            "E",
+            "I",
+            "M",
+            "D"
+        ],
+        [
+            "S",
+            "R",
+            "P",
+            "S",
+            "E"
+        ],
+        [
+            "R",
+            "L",
+            "T",
+            "I",
+            "C",
+            "A",
+            "E"
+        ]
+    ]
+}

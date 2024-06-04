@@ -1,0 +1,70 @@
+{
+  "level": 25,
+  "theme": "Canadian Province Capitals",
+  "solution": [
+    "VICTORIA",
+    "EDMONTON",
+    "REGINA",
+    "WINNIPEG",
+    "TORONTO",
+    "HALIFAX"
+  ],
+  "testTubes": [
+    [
+      "I",
+      "A",
+      "V",
+      "I",
+      "O",
+      "C",
+      "R",
+      "T"
+    ],
+    [
+      "T",
+      "M",
+      "O",
+      "N",
+      "D",
+      "N",
+      "O",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "I",
+      "N",
+      "R",
+      "E"
+    ],
+    [
+      "I",
+      "E",
+      "N",
+      "P",
+      "W",
+      "I",
+      "G",
+      "N"
+    ],
+    [
+      "N",
+      "T",
+      "O",
+      "T",
+      "O",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "I",
+      "X",
+      "L",
+      "F",
+      "A",
+      "H"
+    ]
+  ]
+}

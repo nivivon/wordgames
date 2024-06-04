@@ -1,0 +1,64 @@
+{
+    "level": 73,
+    "theme": "Horticulture",
+    "solution": [
+        "PLANTS",
+        "GARDENS",
+        "FLOWERS",
+        "VEGETABLES",
+        "LANDSCAPING"
+    ],
+    "testTubes": [
+        [
+            "A",
+            "T",
+            "L",
+            "P",
+            "N",
+            "S"
+        ],
+        [
+            "S",
+            "G",
+            "A",
+            "R",
+            "N",
+            "D",
+            "E"
+        ],
+        [
+            "R",
+            "L",
+            "W",
+            "E",
+            "S",
+            "F",
+            "O"
+        ],
+        [
+            "V",
+            "S",
+            "E",
+            "E",
+            "B",
+            "T",
+            "L",
+            "G",
+            "E",
+            "A"
+        ],
+        [
+            "D",
+            "N",
+            "L",
+            "G",
+            "N",
+            "I",
+            "S",
+            "A",
+            "P",
+            "C",
+            "A"
+        ]
+    ]
+}

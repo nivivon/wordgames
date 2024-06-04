@@ -1,0 +1,52 @@
+{
+    "level": 45,
+    "theme": "Botany",
+    "solution": [
+        "PLANTS",
+        "TREES",
+        "FLOWERS",
+        "LEAVES",
+        "ROOTS"
+    ],
+    "testTubes": [
+        [
+            "L",
+            "S",
+            "P",
+            "T",
+            "N",
+            "A"
+        ],
+        [
+            "T",
+            "R",
+            "E",
+            "S",
+            "E"
+        ],
+        [
+            "R",
+            "L",
+            "F",
+            "S",
+            "O",
+            "W",
+            "E"
+        ],
+        [
+            "E",
+            "V",
+            "A",
+            "L",
+            "E",
+            "S"
+        ],
+        [
+            "T",
+            "R",
+            "O",
+            "S",
+            "O"
+        ]
+    ]
+}

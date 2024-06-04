@@ -1,0 +1,49 @@
+{
+    "level": 47,
+    "theme": "Gaming",
+    "solution": [
+        "CONSOLE",
+        "QUEST",
+        "SCORE",
+        "PLAY",
+        "LEVEL"
+    ],
+    "testTubes": [
+        [
+            "O",
+            "S",
+            "L",
+            "C",
+            "O",
+            "N",
+            "E"
+        ],
+        [
+            "U",
+            "T",
+            "Q",
+            "S",
+            "E"
+        ],
+        [
+            "S",
+            "O",
+            "R",
+            "E",
+            "C"
+        ],
+        [
+            "L",
+            "A",
+            "P",
+            "Y"
+        ],
+        [
+            "L",
+            "E",
+            "V",
+            "L",
+            "E"
+        ]
+    ]
+}

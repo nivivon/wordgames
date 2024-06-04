@@ -1,0 +1,48 @@
+{
+    "level": 38,
+    "theme": "Photography",
+    "solution": [
+        "CAMERA",
+        "LENS",
+        "FLASH",
+        "IMAGE",
+        "FOCUS"
+    ],
+    "testTubes": [
+        [
+            "E",
+            "R",
+            "M",
+            "A",
+            "A",
+            "C"
+        ],
+        [
+            "L",
+            "N",
+            "S",
+            "E"
+        ],
+        [
+            "A",
+            "L",
+            "F",
+            "H",
+            "S"
+        ],
+        [
+            "I",
+            "E",
+            "M",
+            "A",
+            "G"
+        ],
+        [
+            "S",
+            "U",
+            "F",
+            "O",
+            "C"
+        ]
+    ]
+}

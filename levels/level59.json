@@ -1,0 +1,47 @@
+{
+    "level": 59,
+    "theme": "Chemistry",
+    "solution": [
+        "ATOM",
+        "BOND",
+        "REACT",
+        "MOLECULE",
+        "LAB"
+    ],
+    "testTubes": [
+        [
+            "M",
+            "T",
+            "A",
+            "O"
+        ],
+        [
+            "B",
+            "O",
+            "D",
+            "N"
+        ],
+        [
+            "A",
+            "C",
+            "T",
+            "R",
+            "E"
+        ],
+        [
+            "L",
+            "L",
+            "O",
+            "E",
+            "C",
+            "U",
+            "M",
+            "E"
+        ],
+        [
+            "L",
+            "B",
+            "A"
+        ]
+    ]
+}

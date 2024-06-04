@@ -1,0 +1,57 @@
+{
+    "level": 65,
+    "theme": "Cryptocurrency",
+    "solution": [
+        "BITCOIN",
+        "WALLET",
+        "BLOCKCHAIN",
+        "TOKEN",
+        "CRYPTO"
+    ],
+    "testTubes": [
+        [
+            "I",
+            "I",
+            "O",
+            "N",
+            "C",
+            "T",
+            "B"
+        ],
+        [
+            "T",
+            "L",
+            "W",
+            "E",
+            "A",
+            "L"
+        ],
+        [
+            "L",
+            "A",
+            "I",
+            "K",
+            "N",
+            "H",
+            "C",
+            "B",
+            "C",
+            "O"
+        ],
+        [
+            "N",
+            "O",
+            "T",
+            "E",
+            "K"
+        ],
+        [
+            "C",
+            "Y",
+            "O",
+            "R",
+            "T",
+            "P"
+        ]
+    ]
+}

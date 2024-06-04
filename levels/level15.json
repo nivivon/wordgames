@@ -1,0 +1,51 @@
+{
+  "level": 15,
+  "theme": "Planets",
+  "solution": [
+    "MERCURY",
+    "VENUS",
+    "EARTH",
+    "MARS",
+    "JUPITER"
+  ],
+  "testTubes": [
+    [
+      "E",
+      "Y",
+      "U",
+      "R",
+      "C",
+      "R",
+      "M"
+    ],
+    [
+      "V",
+      "E",
+      "S",
+      "N",
+      "U"
+    ],
+    [
+      "H",
+      "R",
+      "A",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "M",
+      "S"
+    ],
+    [
+      "T",
+      "P",
+      "E",
+      "R",
+      "U",
+      "J",
+      "I"
+    ]
+  ]
+}

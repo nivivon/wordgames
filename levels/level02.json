@@ -1,0 +1,45 @@
+{
+  "level": 2,
+  "theme": "Animals",
+  "testTubes": [
+    [
+      "L",
+      "N",
+      "I",
+      "O"
+    ],
+    [
+      "I",
+      "T",
+      "R",
+      "E",
+      "G"
+    ],
+    [
+      "R",
+      "B",
+      "E",
+      "A"
+    ],
+    [
+      "L",
+      "F",
+      "O",
+      "W"
+    ],
+    [
+      "H",
+      "A",
+      "K",
+      "S",
+      "R"
+    ]
+  ],
+  "solution": [
+    "LION",
+    "TIGER",
+    "BEAR",
+    "WOLF",
+    "SHARK"
+  ]
+}

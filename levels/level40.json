@@ -1,0 +1,45 @@
+{
+    "level": 40,
+    "theme": "Science",
+    "solution": [
+        "LAB",
+        "THEORY",
+        "TEST",
+        "DATA",
+        "CELLS"
+    ],
+    "testTubes": [
+        [
+            "A",
+            "L",
+            "B"
+        ],
+        [
+            "Y",
+            "H",
+            "E",
+            "T",
+            "R",
+            "O"
+        ],
+        [
+            "S",
+            "T",
+            "E",
+            "T"
+        ],
+        [
+            "D",
+            "A",
+            "A",
+            "T"
+        ],
+        [
+            "L",
+            "S",
+            "E",
+            "C",
+            "L"
+        ]
+    ]
+}

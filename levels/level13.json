@@ -1,0 +1,47 @@
+{
+  "level": 13,
+  "theme": "Clothing",
+  "solution": [
+    "SHIRT",
+    "PANTS",
+    "SHOES",
+    "HAT",
+    "JACKET"
+  ],
+  "testTubes": [
+    [
+      "R",
+      "T",
+      "S",
+      "I",
+      "H"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "N",
+      "T"
+    ],
+    [
+      "H",
+      "S",
+      "S",
+      "E",
+      "O"
+    ],
+    [
+      "T",
+      "H",
+      "A"
+    ],
+    [
+      "A",
+      "J",
+      "C",
+      "K",
+      "T",
+      "E"
+    ]
+  ]
+}

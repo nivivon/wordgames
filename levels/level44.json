@@ -1,0 +1,48 @@
+{
+    "level": 44,
+    "theme": "Movies",
+    "solution": [
+        "FILM",
+        "ACTOR",
+        "SCENE",
+        "SCRIPT",
+        "GENRE"
+    ],
+    "testTubes": [
+        [
+            "I",
+            "M",
+            "L",
+            "F"
+        ],
+        [
+            "T",
+            "O",
+            "A",
+            "R",
+            "C"
+        ],
+        [
+            "S",
+            "E",
+            "E",
+            "N",
+            "C"
+        ],
+        [
+            "S",
+            "P",
+            "T",
+            "I",
+            "R",
+            "C"
+        ],
+        [
+            "N",
+            "E",
+            "R",
+            "E",
+            "G"
+        ]
+    ]
+}

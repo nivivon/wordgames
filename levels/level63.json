@@ -1,0 +1,52 @@
+{
+    "level": 63,
+    "theme": "Sociology",
+    "solution": [
+        "SOCIETY",
+        "CULTURE",
+        "GROUP",
+        "NORMS",
+        "ROLES"
+    ],
+    "testTubes": [
+        [
+            "E",
+            "Y",
+            "S",
+            "T",
+            "C",
+            "I",
+            "O"
+        ],
+        [
+            "U",
+            "T",
+            "L",
+            "E",
+            "U",
+            "C",
+            "R"
+        ],
+        [
+            "R",
+            "P",
+            "U",
+            "O",
+            "G"
+        ],
+        [
+            "R",
+            "N",
+            "M",
+            "O",
+            "S"
+        ],
+        [
+            "O",
+            "E",
+            "S",
+            "R",
+            "L"
+        ]
+    ]
+}

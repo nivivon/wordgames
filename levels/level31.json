@@ -1,0 +1,55 @@
+{
+  "level": 31,
+  "theme": "Zodiac Signs",
+  "solution": [
+    "CANCER",
+    "TAURUS",
+    "ARIES",
+    "GEMINI",
+    "CAPRICORN"
+  ],
+  "testTubes": [
+    [
+      "R",
+      "C",
+      "N",
+      "E",
+      "C",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "U",
+      "A",
+      "U"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "G",
+      "M",
+      "N",
+      "I",
+      "E",
+      "I"
+    ],
+    [
+      "R",
+      "C",
+      "R",
+      "N",
+      "P",
+      "I",
+      "A",
+      "C",
+      "O"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "level": 72,
+    "theme": "Zoology",
+    "solution": [
+        "ANIMALS",
+        "SPECIES",
+        "WILDLIFE",
+        "HABITAT",
+        "BEHAVIOR"
+    ],
+    "testTubes": [
+        [
+            "A",
+            "N",
+            "S",
+            "L",
+            "A",
+            "M",
+            "I"
+        ],
+        [
+            "E",
+            "E",
+            "S",
+            "P",
+            "C",
+            "I",
+            "S"
+        ],
+        [
+            "I",
+            "W",
+            "L",
+            "E",
+            "F",
+            "L",
+            "I",
+            "D"
+        ],
+        [
+            "T",
+            "A",
+            "T",
+            "B",
+            "H",
+            "A",
+            "I"
+        ],
+        [
+            "V",
+            "R",
+            "H",
+            "I",
+            "E",
+            "O",
+            "B",
+            "A"
+        ]
+    ]
+}

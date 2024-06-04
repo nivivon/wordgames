@@ -1,0 +1,48 @@
+{
+    "level": 36,
+    "theme": "Fashion",
+    "solution": [
+        "STYLE",
+        "TREND",
+        "DESIGN",
+        "DRESS",
+        "CHIC"
+    ],
+    "testTubes": [
+        [
+            "E",
+            "S",
+            "L",
+            "T",
+            "Y"
+        ],
+        [
+            "T",
+            "N",
+            "R",
+            "D",
+            "E"
+        ],
+        [
+            "N",
+            "G",
+            "S",
+            "E",
+            "D",
+            "I"
+        ],
+        [
+            "E",
+            "S",
+            "D",
+            "S",
+            "R"
+        ],
+        [
+            "I",
+            "C",
+            "H",
+            "C"
+        ]
+    ]
+}

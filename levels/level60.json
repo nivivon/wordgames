@@ -1,0 +1,49 @@
+{
+    "level": 60,
+    "theme": "Physics",
+    "solution": [
+        "FORCE",
+        "MOTION",
+        "ENERGY",
+        "WAVE",
+        "LIGHT"
+    ],
+    "testTubes": [
+        [
+            "C",
+            "F",
+            "E",
+            "O",
+            "R"
+        ],
+        [
+            "M",
+            "O",
+            "O",
+            "I",
+            "T",
+            "N"
+        ],
+        [
+            "N",
+            "E",
+            "G",
+            "R",
+            "E",
+            "Y"
+        ],
+        [
+            "V",
+            "A",
+            "W",
+            "E"
+        ],
+        [
+            "G",
+            "T",
+            "H",
+            "I",
+            "L"
+        ]
+    ]
+}

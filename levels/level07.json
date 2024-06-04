@@ -1,0 +1,50 @@
+{
+  "level": 7,
+  "theme": "Musical Instruments",
+  "solution": [
+    "PIANO",
+    "GUITAR",
+    "DRUMS",
+    "FLUTE",
+    "VIOLIN"
+  ],
+  "testTubes": [
+    [
+      "N",
+      "I",
+      "O",
+      "P",
+      "A"
+    ],
+    [
+      "A",
+      "U",
+      "G",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "S",
+      "U",
+      "M",
+      "R"
+    ],
+    [
+      "T",
+      "E",
+      "U",
+      "F",
+      "L"
+    ],
+    [
+      "O",
+      "N",
+      "L",
+      "I",
+      "V",
+      "I"
+    ]
+  ]
+}

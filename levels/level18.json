@@ -1,0 +1,56 @@
+{
+  "level": 18,
+  "theme": "Dog Breeds",
+  "solution": [
+    "BEAGLE",
+    "BULLDOG",
+    "DALMATIAN",
+    "POODLE",
+    "HUSKY"
+  ],
+  "testTubes": [
+    [
+      "B",
+      "L",
+      "A",
+      "E",
+      "G",
+      "E"
+    ],
+    [
+      "B",
+      "U",
+      "L",
+      "O",
+      "G",
+      "D",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "T",
+      "D",
+      "L",
+      "A",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "O",
+      "P",
+      "D",
+      "O"
+    ],
+    [
+      "H",
+      "S",
+      "K",
+      "U",
+      "Y"
+    ]
+  ]
+}

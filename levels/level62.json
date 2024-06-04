@@ -1,0 +1,53 @@
+{
+    "level": 62,
+    "theme": "Mythology",
+    "solution": [
+        "GODS",
+        "MYTHS",
+        "LEGENDS",
+        "HEROES",
+        "FOLKLORE"
+    ],
+    "testTubes": [
+        [
+            "S",
+            "O",
+            "D",
+            "G"
+        ],
+        [
+            "S",
+            "H",
+            "Y",
+            "M",
+            "T"
+        ],
+        [
+            "E",
+            "L",
+            "G",
+            "D",
+            "E",
+            "S",
+            "N"
+        ],
+        [
+            "H",
+            "E",
+            "S",
+            "O",
+            "E",
+            "R"
+        ],
+        [
+            "O",
+            "L",
+            "K",
+            "E",
+            "O",
+            "F",
+            "R",
+            "L"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+  "level": 22,
+  "theme": "Disney Princesses",
+  "solution": [
+    "CINDERELLA",
+    "ARIEL",
+    "BELLE",
+    "MOANA",
+    "TIANA"
+  ],
+  "testTubes": [
+    [
+      "L",
+      "E",
+      "N",
+      "A",
+      "R",
+      "I",
+      "D",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "E",
+      "I",
+      "L"
+    ],
+    [
+      "E",
+      "L",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "A",
+      "O"
+    ],
+    [
+      "N",
+      "I",
+      "A",
+      "T",
+      "A"
+    ]
+  ]
+}

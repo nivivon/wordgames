@@ -1,0 +1,46 @@
+{
+    "level": 75,
+    "theme": "Acoustics",
+    "solution": [
+        "SOUND",
+        "WAVE",
+        "NOISE",
+        "ECHO",
+        "AUDIO"
+    ],
+    "testTubes": [
+        [
+            "D",
+            "N",
+            "O",
+            "U",
+            "S"
+        ],
+        [
+            "W",
+            "A",
+            "E",
+            "V"
+        ],
+        [
+            "S",
+            "N",
+            "E",
+            "I",
+            "O"
+        ],
+        [
+            "C",
+            "H",
+            "O",
+            "E"
+        ],
+        [
+            "I",
+            "U",
+            "A",
+            "O",
+            "D"
+        ]
+    ]
+}

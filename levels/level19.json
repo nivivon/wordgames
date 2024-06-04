@@ -1,0 +1,62 @@
+{
+  "level": 19,
+  "theme": "Neighbourhoods of Montreal",
+  "solution": [
+    "PLATEAU",
+    "OUTREMONT",
+    "MILEEND",
+    "WESTMOUNT",
+    "OLDPORT"
+  ],
+  "testTubes": [
+    [
+      "T",
+      "A",
+      "U",
+      "A",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "O",
+      "M",
+      "R",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "M",
+      "I",
+      "D",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "N",
+      "S",
+      "T",
+      "U",
+      "O",
+      "W",
+      "T"
+    ],
+    [
+      "O",
+      "T",
+      "R",
+      "P",
+      "D",
+      "O",
+      "L"
+    ]
+  ]
+}

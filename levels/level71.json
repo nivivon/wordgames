@@ -1,0 +1,69 @@
+{
+    "level": 71,
+    "theme": "Ecology",
+    "solution": [
+        "ECOSYSTEM",
+        "SPECIES",
+        "HABITAT",
+        "ENVIRONMENT",
+        "BIODIVERSITY"
+    ],
+    "testTubes": [
+        [
+            "S",
+            "T",
+            "E",
+            "S",
+            "Y",
+            "O",
+            "M",
+            "E",
+            "C"
+        ],
+        [
+            "C",
+            "I",
+            "E",
+            "E",
+            "S",
+            "S",
+            "P"
+        ],
+        [
+            "H",
+            "B",
+            "I",
+            "T",
+            "A",
+            "A",
+            "T"
+        ],
+        [
+            "E",
+            "V",
+            "O",
+            "N",
+            "E",
+            "M",
+            "N",
+            "I",
+            "T",
+            "N",
+            "R"
+        ],
+        [
+            "V",
+            "D",
+            "T",
+            "O",
+            "I",
+            "R",
+            "B",
+            "I",
+            "S",
+            "Y",
+            "E",
+            "I"
+        ]
+    ]
+}

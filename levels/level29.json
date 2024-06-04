@@ -1,0 +1,57 @@
+{
+  "level": 29,
+  "theme": "Languages",
+  "solution": [
+    "HEBREW",
+    "ENGLISH",
+    "FRENCH",
+    "SPANISH",
+    "JAPANESE"
+  ],
+  "testTubes": [
+    [
+      "W",
+      "H",
+      "E",
+      "E",
+      "B",
+      "R"
+    ],
+    [
+      "G",
+      "N",
+      "L",
+      "H",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "H",
+      "E",
+      "F",
+      "C"
+    ],
+    [
+      "I",
+      "H",
+      "S",
+      "N",
+      "S",
+      "A",
+      "P"
+    ],
+    [
+      "E",
+      "E",
+      "A",
+      "A",
+      "J",
+      "P",
+      "S",
+      "N"
+    ]
+  ]
+}

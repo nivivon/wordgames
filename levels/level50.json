@@ -1,0 +1,51 @@
+{
+    "level": 50,
+    "theme": "Psychology",
+    "solution": [
+        "MIND",
+        "BEHAVIOR",
+        "THERAPY",
+        "MOOD",
+        "BRAIN"
+    ],
+    "testTubes": [
+        [
+            "N",
+            "D",
+            "I",
+            "M"
+        ],
+        [
+            "B",
+            "E",
+            "V",
+            "I",
+            "H",
+            "R",
+            "A",
+            "O"
+        ],
+        [
+            "A",
+            "P",
+            "H",
+            "E",
+            "R",
+            "T",
+            "Y"
+        ],
+        [
+            "M",
+            "O",
+            "D",
+            "O"
+        ],
+        [
+            "A",
+            "I",
+            "R",
+            "N",
+            "B"
+        ]
+    ]
+}

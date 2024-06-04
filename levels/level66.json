@@ -1,0 +1,50 @@
+{
+    "level": 66,
+    "theme": "Meteorology",
+    "solution": [
+        "WEATHER",
+        "STORM",
+        "RAIN",
+        "CLIMATE",
+        "WIND"
+    ],
+    "testTubes": [
+        [
+            "W",
+            "A",
+            "E",
+            "T",
+            "R",
+            "H",
+            "E"
+        ],
+        [
+            "T",
+            "M",
+            "O",
+            "S",
+            "R"
+        ],
+        [
+            "A",
+            "I",
+            "N",
+            "R"
+        ],
+        [
+            "T",
+            "E",
+            "A",
+            "C",
+            "I",
+            "M",
+            "L"
+        ],
+        [
+            "N",
+            "W",
+            "D",
+            "I"
+        ]
+    ]
+}

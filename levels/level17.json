@@ -1,0 +1,46 @@
+{
+  "level": 17,
+  "theme": "Gilmore Girls Characters",
+  "solution": [
+    "RORY",
+    "LORELAI",
+    "JESS",
+    "DEAN",
+    "LUKE"
+  ],
+  "testTubes": [
+    [
+      "O",
+      "R",
+      "Y",
+      "R"
+    ],
+    [
+      "I",
+      "E",
+      "R",
+      "L",
+      "O",
+      "L",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "J",
+      "S"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "A"
+    ],
+    [
+      "U",
+      "L",
+      "K",
+      "E"
+    ]
+  ]
+}

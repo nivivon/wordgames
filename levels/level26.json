@@ -1,0 +1,68 @@
+{
+  "level": 26,
+  "theme": "Adventure Spots",
+  "solution": [
+    "NEWYORK",
+    "JAMAICA",
+    "COSTARICA",
+    "NOVASCOTIA",
+    "PEI",
+    "QUEBEC"
+  ],
+  "testTubes": [
+    [
+      "W",
+      "Y",
+      "E",
+      "R",
+      "K",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "J",
+      "I",
+      "M",
+      "C",
+      "A",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "A",
+      "T",
+      "I",
+      "C",
+      "O",
+      "R"
+    ],
+    [
+      "N",
+      "T",
+      "O",
+      "I",
+      "O",
+      "C",
+      "V",
+      "A",
+      "A",
+      "S"
+    ],
+    [
+      "I",
+      "P",
+      "E"
+    ],
+    [
+      "C",
+      "Q",
+      "E",
+      "U",
+      "B",
+      "E"
+    ]
+  ]
+}

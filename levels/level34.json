@@ -1,0 +1,68 @@
+{
+  "level": 34,
+  "theme": "Astronomy",
+  "solution": [
+    "ASTRONOMY",
+    "STARS",
+    "PLANETS",
+    "GALAXIES",
+    "NEBULAE",
+    "COMETS"
+  ],
+  "testTubes": [
+    [
+      "O",
+      "R",
+      "M",
+      "O",
+      "T",
+      "Y",
+      "A",
+      "S",
+      "N"
+    ],
+    [
+      "R",
+      "S",
+      "T",
+      "S",
+      "A"
+    ],
+    [
+      "L",
+      "P",
+      "S",
+      "E",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "I",
+      "A",
+      "X",
+      "L",
+      "E",
+      "G"
+    ],
+    [
+      "L",
+      "N",
+      "A",
+      "B",
+      "E",
+      "E",
+      "U"
+    ],
+    [
+      "E",
+      "M",
+      "C",
+      "T",
+      "S",
+      "O"
+    ]
+  ]
+}

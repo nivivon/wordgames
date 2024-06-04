@@ -1,0 +1,49 @@
+{
+  "level": 5,
+  "theme": "Emotions",
+  "testTubes": [
+    [
+      "A",
+      "P",
+      "H",
+      "P",
+      "Y"
+    ],
+    [
+      "A",
+      "D",
+      "S"
+    ],
+    [
+      "Y",
+      "R",
+      "A",
+      "G",
+      "N"
+    ],
+    [
+      "C",
+      "X",
+      "E",
+      "I",
+      "T",
+      "D",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "C",
+      "R",
+      "A",
+      "D"
+    ]
+  ],
+  "solution": [
+    "HAPPY",
+    "SAD",
+    "ANGRY",
+    "EXCITED",
+    "SCARED"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "level": 52,
+    "theme": "Economics",
+    "solution": [
+        "MARKET",
+        "TRADE",
+        "VALUE",
+        "MONEY",
+        "GOODS"
+    ],
+    "testTubes": [
+        [
+            "T",
+            "A",
+            "K",
+            "E",
+            "M",
+            "R"
+        ],
+        [
+            "E",
+            "D",
+            "R",
+            "T",
+            "A"
+        ],
+        [
+            "E",
+            "U",
+            "A",
+            "L",
+            "V"
+        ],
+        [
+            "O",
+            "E",
+            "N",
+            "M",
+            "Y"
+        ],
+        [
+            "O",
+            "S",
+            "D",
+            "O",
+            "G"
+        ]
+    ]
+}

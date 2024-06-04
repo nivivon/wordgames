@@ -1,0 +1,60 @@
+{
+  "level": 32,
+  "theme": "Classic Board Games",
+  "solution": [
+    "MONOPOLY",
+    "SCRABBLE",
+    "GUESSWHO",
+    "SORRY",
+    "CHECKERS"
+  ],
+  "testTubes": [
+    [
+      "L",
+      "M",
+      "O",
+      "P",
+      "O",
+      "Y",
+      "N",
+      "O"
+    ],
+    [
+      "A",
+      "L",
+      "B",
+      "E",
+      "S",
+      "C",
+      "B",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "H",
+      "G",
+      "W",
+      "S",
+      "S",
+      "U"
+    ],
+    [
+      "O",
+      "R",
+      "S",
+      "Y",
+      "R"
+    ],
+    [
+      "E",
+      "E",
+      "C",
+      "S",
+      "H",
+      "R",
+      "C",
+      "K"
+    ]
+  ]
+}

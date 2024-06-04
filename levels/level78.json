@@ -1,0 +1,47 @@
+{
+    "level": 78,
+    "theme": "Fitness",
+    "solution": [
+        "GYM",
+        "CARDIO",
+        "YOGA",
+        "WEIGHTS",
+        "DIET"
+    ],
+    "testTubes": [
+        [
+            "G",
+            "M",
+            "Y"
+        ],
+        [
+            "O",
+            "C",
+            "D",
+            "A",
+            "I",
+            "R"
+        ],
+        [
+            "O",
+            "A",
+            "G",
+            "Y"
+        ],
+        [
+            "I",
+            "S",
+            "W",
+            "G",
+            "E",
+            "T",
+            "H"
+        ],
+        [
+            "T",
+            "D",
+            "E",
+            "I"
+        ]
+    ]
+}

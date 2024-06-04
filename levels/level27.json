@@ -1,0 +1,69 @@
+{
+  "level": 27,
+  "theme": "Reality TV Shows",
+  "solution": [
+    "SURVIVOR",
+    "BACHELOR",
+    "BIGBROTHER",
+    "AMAZINGRACE",
+    "BELOWDECK"
+  ],
+  "testTubes": [
+    [
+      "O",
+      "R",
+      "I",
+      "R",
+      "V",
+      "S",
+      "V",
+      "U"
+    ],
+    [
+      "A",
+      "E",
+      "R",
+      "L",
+      "B",
+      "C",
+      "O",
+      "H"
+    ],
+    [
+      "H",
+      "B",
+      "R",
+      "R",
+      "T",
+      "E",
+      "I",
+      "G",
+      "O",
+      "B"
+    ],
+    [
+      "R",
+      "A",
+      "G",
+      "A",
+      "I",
+      "A",
+      "E",
+      "C",
+      "N",
+      "Z",
+      "M"
+    ],
+    [
+      "W",
+      "E",
+      "K",
+      "C",
+      "L",
+      "D",
+      "B",
+      "E",
+      "O"
+    ]
+  ]
+}

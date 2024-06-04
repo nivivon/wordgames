@@ -1,0 +1,53 @@
+{
+  "level": 21,
+  "theme": "Top Pop Artists in Early 2000s",
+  "solution": [
+    "BRITNEY",
+    "NSYNC",
+    "BEYONCE",
+    "USHER",
+    "SHANIA"
+  ],
+  "testTubes": [
+    [
+      "N",
+      "T",
+      "I",
+      "E",
+      "B",
+      "R",
+      "Y"
+    ],
+    [
+      "C",
+      "S",
+      "Y",
+      "N",
+      "N"
+    ],
+    [
+      "B",
+      "N",
+      "E",
+      "E",
+      "O",
+      "C",
+      "Y"
+    ],
+    [
+      "E",
+      "H",
+      "U",
+      "R",
+      "S"
+    ],
+    [
+      "A",
+      "I",
+      "S",
+      "A",
+      "H",
+      "N"
+    ]
+  ]
+}

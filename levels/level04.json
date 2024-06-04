@@ -1,0 +1,47 @@
+{
+  "level": 4,
+  "theme": "Flowers",
+  "testTubes": [
+    [
+      "S",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "I",
+      "L",
+      "Y",
+      "L"
+    ],
+    [
+      "L",
+      "T",
+      "U",
+      "P",
+      "I"
+    ],
+    [
+      "A",
+      "I",
+      "D",
+      "S",
+      "Y"
+    ],
+    [
+      "C",
+      "D",
+      "O",
+      "R",
+      "I",
+      "H"
+    ]
+  ],
+  "solution": [
+    "ROSE",
+    "LILY",
+    "TULIP",
+    "DAISY",
+    "ORCHID"
+  ]
+}

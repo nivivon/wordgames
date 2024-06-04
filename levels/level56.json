@@ -1,0 +1,46 @@
+{
+    "level": 56,
+    "theme": "Cooking",
+    "solution": [
+        "RECIPE",
+        "BAKE",
+        "GRILL",
+        "ROAST",
+        "FRY"
+    ],
+    "testTubes": [
+        [
+            "I",
+            "E",
+            "P",
+            "E",
+            "C",
+            "R"
+        ],
+        [
+            "K",
+            "B",
+            "A",
+            "E"
+        ],
+        [
+            "R",
+            "I",
+            "G",
+            "L",
+            "L"
+        ],
+        [
+            "O",
+            "T",
+            "R",
+            "S",
+            "A"
+        ],
+        [
+            "Y",
+            "F",
+            "R"
+        ]
+    ]
+}

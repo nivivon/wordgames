@@ -1,0 +1,49 @@
+{
+    "level": 41,
+    "theme": "Medicine",
+    "solution": [
+        "HEALTH",
+        "DRUGS",
+        "CURE",
+        "CLINIC",
+        "NURSE"
+    ],
+    "testTubes": [
+        [
+            "L",
+            "A",
+            "H",
+            "E",
+            "T",
+            "H"
+        ],
+        [
+            "G",
+            "D",
+            "U",
+            "R",
+            "S"
+        ],
+        [
+            "E",
+            "U",
+            "C",
+            "R"
+        ],
+        [
+            "L",
+            "I",
+            "C",
+            "C",
+            "I",
+            "N"
+        ],
+        [
+            "N",
+            "S",
+            "E",
+            "R",
+            "U"
+        ]
+    ]
+}

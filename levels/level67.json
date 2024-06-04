@@ -1,0 +1,47 @@
+{
+    "level": 67,
+    "theme": "Travel",
+    "solution": [
+        "TRIP",
+        "FLIGHT",
+        "HOTEL",
+        "TOUR",
+        "BEACH"
+    ],
+    "testTubes": [
+        [
+            "R",
+            "T",
+            "I",
+            "P"
+        ],
+        [
+            "I",
+            "L",
+            "H",
+            "F",
+            "G",
+            "T"
+        ],
+        [
+            "E",
+            "O",
+            "L",
+            "H",
+            "T"
+        ],
+        [
+            "T",
+            "U",
+            "O",
+            "R"
+        ],
+        [
+            "C",
+            "A",
+            "H",
+            "B",
+            "E"
+        ]
+    ]
+}

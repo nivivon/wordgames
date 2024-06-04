@@ -1,0 +1,40 @@
+{
+  "level": 6,
+  "theme": "Insects",
+  "solution": [
+    "ANT",
+    "BEE",
+    "FLY",
+    "MOTH",
+    "WASP"
+  ],
+  "testTubes": [
+    [
+      "N",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "B",
+      "E"
+    ],
+    [
+      "L",
+      "F",
+      "Y"
+    ],
+    [
+      "O",
+      "T",
+      "H",
+      "M"
+    ],
+    [
+      "P",
+      "W",
+      "A",
+      "S"
+    ]
+  ]
+}

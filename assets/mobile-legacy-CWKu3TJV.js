@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){var e=document.createElement("style");e.textContent="*{-webkit-tap-highlight-color:rgba(0,0,0,0)}*{user-select:none}html,body{overscroll-behavior:none}ion-content{--overflow: hidden}\n",document.head.appendChild(e)}}}));

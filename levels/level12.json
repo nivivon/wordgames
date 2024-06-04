@@ -1,0 +1,46 @@
+{
+  "level": 12,
+  "theme": "Weather",
+  "solution": [
+    "RAIN",
+    "SNOW",
+    "SUNNY",
+    "WINDY",
+    "STORM"
+  ],
+  "testTubes": [
+    [
+      "I",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "N",
+      "O",
+      "W",
+      "S"
+    ],
+    [
+      "U",
+      "S",
+      "Y",
+      "N",
+      "N"
+    ],
+    [
+      "D",
+      "I",
+      "N",
+      "W",
+      "Y"
+    ],
+    [
+      "S",
+      "T",
+      "M",
+      "O",
+      "R"
+    ]
+  ]
+}

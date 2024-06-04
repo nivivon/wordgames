@@ -1,0 +1,47 @@
+{
+    "level": 39,
+    "theme": "Gardening",
+    "solution": [
+        "SOIL",
+        "SEEDS",
+        "BLOOM",
+        "PRUNE",
+        "HERBS"
+    ],
+    "testTubes": [
+        [
+            "L",
+            "S",
+            "I",
+            "O"
+        ],
+        [
+            "S",
+            "E",
+            "E",
+            "S",
+            "D"
+        ],
+        [
+            "O",
+            "O",
+            "L",
+            "M",
+            "B"
+        ],
+        [
+            "U",
+            "E",
+            "R",
+            "N",
+            "P"
+        ],
+        [
+            "H",
+            "S",
+            "E",
+            "B",
+            "R"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "level": 9,
+  "theme": "Occupations",
+  "solution": [
+    "DOCTOR",
+    "TEACHER",
+    "LAWYER",
+    "NURSE",
+    "ENGINEER"
+  ],
+  "testTubes": [
+    [
+      "C",
+      "O",
+      "D",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "C",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "W",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "U",
+      "S",
+      "N"
+    ],
+    [
+      "E",
+      "E",
+      "R",
+      "N",
+      "G",
+      "E",
+      "N",
+      "I"
+    ]
+  ]
+}

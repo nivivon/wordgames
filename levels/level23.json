@@ -1,0 +1,60 @@
+{
+  "level": 23,
+  "theme": "Friends Characters",
+  "solution": [
+    "ROSS",
+    "RACHEL",
+    "MONICA",
+    "CHANDLER",
+    "JOEY",
+    "PHOEBE"
+  ],
+  "testTubes": [
+    [
+      "O",
+      "R",
+      "S",
+      "S"
+    ],
+    [
+      "H",
+      "E",
+      "C",
+      "R",
+      "L",
+      "A"
+    ],
+    [
+      "N",
+      "I",
+      "O",
+      "M",
+      "C",
+      "A"
+    ],
+    [
+      "R",
+      "L",
+      "H",
+      "A",
+      "D",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "Y",
+      "O",
+      "J"
+    ],
+    [
+      "B",
+      "O",
+      "E",
+      "H",
+      "P",
+      "E"
+    ]
+  ]
+}

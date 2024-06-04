@@ -1,0 +1,48 @@
+{
+    "level": 74,
+    "theme": "Marine Biology",
+    "solution": [
+        "OCEAN",
+        "FISH",
+        "CORAL",
+        "ALGAE",
+        "MARINE"
+    ],
+    "testTubes": [
+        [
+            "C",
+            "N",
+            "E",
+            "A",
+            "O"
+        ],
+        [
+            "S",
+            "F",
+            "I",
+            "H"
+        ],
+        [
+            "L",
+            "A",
+            "O",
+            "C",
+            "R"
+        ],
+        [
+            "L",
+            "G",
+            "A",
+            "A",
+            "E"
+        ],
+        [
+            "N",
+            "M",
+            "I",
+            "A",
+            "R",
+            "E"
+        ]
+    ]
+}

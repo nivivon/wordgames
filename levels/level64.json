@@ -1,0 +1,58 @@
+{
+    "level": 64,
+    "theme": "Linguistics",
+    "solution": [
+        "LANGUAGE",
+        "SYNTAX",
+        "PHONEME",
+        "GRAMMAR",
+        "DIALECT"
+    ],
+    "testTubes": [
+        [
+            "A",
+            "U",
+            "E",
+            "A",
+            "G",
+            "L",
+            "G",
+            "N"
+        ],
+        [
+            "N",
+            "A",
+            "X",
+            "Y",
+            "S",
+            "T"
+        ],
+        [
+            "E",
+            "P",
+            "H",
+            "O",
+            "M",
+            "E",
+            "N"
+        ],
+        [
+            "R",
+            "A",
+            "G",
+            "M",
+            "R",
+            "M",
+            "A"
+        ],
+        [
+            "E",
+            "A",
+            "C",
+            "L",
+            "I",
+            "T",
+            "D"
+        ]
+    ]
+}

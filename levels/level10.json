@@ -1,0 +1,43 @@
+{
+  "level": 10,
+  "theme": "Transportation",
+  "solution": [
+    "CAR",
+    "BUS",
+    "TRAIN",
+    "PLANE",
+    "BOAT"
+  ],
+  "testTubes": [
+    [
+      "A",
+      "R",
+      "C"
+    ],
+    [
+      "U",
+      "B",
+      "S"
+    ],
+    [
+      "I",
+      "A",
+      "N",
+      "T",
+      "R"
+    ],
+    [
+      "A",
+      "N",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "O",
+      "A",
+      "B"
+    ]
+  ]
+}

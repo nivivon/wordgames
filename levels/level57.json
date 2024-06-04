@@ -1,0 +1,45 @@
+{
+    "level": 57,
+    "theme": "Aviation",
+    "solution": [
+        "PLANE",
+        "PILOT",
+        "FLY",
+        "RUNWAY",
+        "AIR"
+    ],
+    "testTubes": [
+        [
+            "E",
+            "L",
+            "P",
+            "A",
+            "N"
+        ],
+        [
+            "T",
+            "O",
+            "P",
+            "L",
+            "I"
+        ],
+        [
+            "L",
+            "F",
+            "Y"
+        ],
+        [
+            "N",
+            "U",
+            "W",
+            "Y",
+            "R",
+            "A"
+        ],
+        [
+            "I",
+            "A",
+            "R"
+        ]
+    ]
+}

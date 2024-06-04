@@ -1,0 +1,46 @@
+{
+    "level": 49,
+    "theme": "Politics",
+    "solution": [
+        "VOTE",
+        "PARTY",
+        "LAW",
+        "POLICY",
+        "POWER"
+    ],
+    "testTubes": [
+        [
+            "V",
+            "E",
+            "O",
+            "T"
+        ],
+        [
+            "T",
+            "A",
+            "P",
+            "R",
+            "Y"
+        ],
+        [
+            "A",
+            "L",
+            "W"
+        ],
+        [
+            "O",
+            "P",
+            "C",
+            "I",
+            "Y",
+            "L"
+        ],
+        [
+            "E",
+            "R",
+            "O",
+            "P",
+            "W"
+        ]
+    ]
+}

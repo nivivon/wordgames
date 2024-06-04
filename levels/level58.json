@@ -1,0 +1,53 @@
+{
+    "level": 58,
+    "theme": "Mathematics",
+    "solution": [
+        "NUMBERS",
+        "ALGEBRA",
+        "GRAPH",
+        "THEORY",
+        "PROOF"
+    ],
+    "testTubes": [
+        [
+            "M",
+            "R",
+            "B",
+            "S",
+            "U",
+            "N",
+            "E"
+        ],
+        [
+            "B",
+            "G",
+            "E",
+            "L",
+            "A",
+            "R",
+            "A"
+        ],
+        [
+            "G",
+            "A",
+            "H",
+            "P",
+            "R"
+        ],
+        [
+            "O",
+            "R",
+            "T",
+            "E",
+            "Y",
+            "H"
+        ],
+        [
+            "F",
+            "O",
+            "O",
+            "P",
+            "R"
+        ]
+    ]
+}

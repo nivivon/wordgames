@@ -1,0 +1,46 @@
+{
+  "level": 14,
+  "theme": "Beverages",
+  "solution": [
+    "COFFEE",
+    "TEA",
+    "JUICE",
+    "WATER",
+    "SODA"
+  ],
+  "testTubes": [
+    [
+      "F",
+      "C",
+      "E",
+      "E",
+      "O",
+      "F"
+    ],
+    [
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "J",
+      "I",
+      "C",
+      "U",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "W",
+      "E"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "D"
+    ]
+  ]
+}

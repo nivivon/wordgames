@@ -1,0 +1,47 @@
+{
+    "level": 42,
+    "theme": "Education",
+    "solution": [
+        "TEACH",
+        "LEARN",
+        "CLASS",
+        "TEST",
+        "GRADE"
+    ],
+    "testTubes": [
+        [
+            "A",
+            "C",
+            "H",
+            "T",
+            "E"
+        ],
+        [
+            "R",
+            "A",
+            "E",
+            "L",
+            "N"
+        ],
+        [
+            "S",
+            "L",
+            "S",
+            "C",
+            "A"
+        ],
+        [
+            "T",
+            "E",
+            "T",
+            "S"
+        ],
+        [
+            "G",
+            "D",
+            "E",
+            "A",
+            "R"
+        ]
+    ]
+}

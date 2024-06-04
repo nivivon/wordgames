@@ -1,0 +1,46 @@
+{
+    "level": 35,
+    "theme": "History",
+    "solution": [
+        "WAR",
+        "KINGS",
+        "EMPIRE",
+        "BATTLE",
+        "ERA"
+    ],
+    "testTubes": [
+        [
+            "R",
+            "W",
+            "A"
+        ],
+        [
+            "S",
+            "I",
+            "N",
+            "K",
+            "G"
+        ],
+        [
+            "E",
+            "E",
+            "M",
+            "R",
+            "I",
+            "P"
+        ],
+        [
+            "T",
+            "B",
+            "A",
+            "L",
+            "E",
+            "T"
+        ],
+        [
+            "R",
+            "A",
+            "E"
+        ]
+    ]
+}

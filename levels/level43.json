@@ -1,0 +1,49 @@
+{
+    "level": 43,
+    "theme": "Finance",
+    "solution": [
+        "STOCKS",
+        "MONEY",
+        "TRADE",
+        "FUNDS",
+        "BONDS"
+    ],
+    "testTubes": [
+        [
+            "K",
+            "C",
+            "O",
+            "T",
+            "S",
+            "S"
+        ],
+        [
+            "E",
+            "M",
+            "N",
+            "O",
+            "Y"
+        ],
+        [
+            "D",
+            "A",
+            "E",
+            "R",
+            "T"
+        ],
+        [
+            "D",
+            "S",
+            "N",
+            "F",
+            "U"
+        ],
+        [
+            "O",
+            "D",
+            "N",
+            "S",
+            "B"
+        ]
+    ]
+}

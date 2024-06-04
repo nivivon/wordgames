@@ -1,0 +1,50 @@
+{
+  "level": 1,
+  "theme": "Fruits",
+  "testTubes": [
+    [
+      "E",
+      "L",
+      "P",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "A",
+      "N",
+      "B",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      "R",
+      "G"
+    ],
+    [
+      "E",
+      "G",
+      "A",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      "A",
+      "O",
+      "N",
+      "G",
+      "M"
+    ]
+  ],
+  "solution": [
+    "APPLE",
+    "BANANA",
+    "GRAPE",
+    "ORANGE",
+    "MANGO"
+  ]
+}
